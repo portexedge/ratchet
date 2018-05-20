@@ -42,7 +42,7 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-csscomb": "^3.1.0",
     "grunt-html": "^6.0.0",
-    "grunt-contrib-jasmine": "^1.0.0",
+    "grunt-contrib-jasmine": "^2.0.0",
     "grunt-jekyll": "^0.4.2",
     "grunt-jscs": "^2.8.0",
     "grunt-sass": "^1.1.0",
